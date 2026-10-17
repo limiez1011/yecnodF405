@@ -1,10 +1,5 @@
 # yecnod F405 V1.1
 
-## Build Photos
-<img width="3044" height="2296" alt="20261010_185008" src="https://github.com/user-attachments/assets/9f42ac1b-7044-401a-b5f1-4d50d43e0602" />
-<img width="3024" height="4032" alt="IMG-20261010-WA0000" src="https://github.com/user-attachments/assets/484c797d-cd19-4afe-a6f7-eb4fcdf36102" />
-
-
 ## Description
 
 open-source (not that anyone would want to use it) 40x40 F405 Flight controller using betaflight software.
@@ -58,3 +53,7 @@ Total price for everything is 204.73 USD
 <img width="641" height="654" alt="image" src="https://github.com/user-attachments/assets/d846d424-fab3-4289-895c-4f54548c8789" />
 <img width="1140" height="1072" alt="image" src="https://github.com/user-attachments/assets/e5eff88b-3744-4156-a4e1-31f9d1a22271" />
 <img width="1950" height="1370" alt="image" src="https://github.com/user-attachments/assets/596ec015-b1d5-4080-9dd2-f341188171a8" />
+
+## Build Photos
+<img width="3044" height="2296" alt="20261010_185008" src="https://github.com/user-attachments/assets/9f42ac1b-7044-401a-b5f1-4d50d43e0602" />
+<img width="3024" height="4032" alt="IMG-20261010-WA0000" src="https://github.com/user-attachments/assets/484c797d-cd19-4afe-a6f7-eb4fcdf36102" />

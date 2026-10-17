@@ -1,5 +1,10 @@
 # yecnod F405 V1.1
 
+## Build Photos
+<img width="3044" height="2296" alt="20261010_185008" src="https://github.com/user-attachments/assets/9f42ac1b-7044-401a-b5f1-4d50d43e0602" />
+<img width="3024" height="4032" alt="IMG-20261010-WA0000" src="https://github.com/user-attachments/assets/484c797d-cd19-4afe-a6f7-eb4fcdf36102" />
+
+
 ## Description
 
 open-source (not that anyone would want to use it) 40x40 F405 Flight controller using betaflight software.
